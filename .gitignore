@@ -1,0 +1,8 @@
+*.pyc
+*~
+*.pyo
+*.*~
+PyDispatcher.egg-info
+dist
+build
+env
